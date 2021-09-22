@@ -3,3 +3,14 @@ winbuild/
 win64build/
 openal-soft.kdev4
 .kdev4/
+
+# Output files
+**/bin-int
+**/bin
+
+# Visual Studio project files
+*.vs
+*.sln
+*.vcxproj
+*.filters
+*.user
